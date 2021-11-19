@@ -1,0 +1,12 @@
+{
+  "name": "db_connecting",
+  "version": "0.0.1",
+  "description": "how to conect to DB",
+  "main": "app.js",
+  "scripts": {
+    "test": "test",
+    "dev":"cls & node app.js"
+  },
+  "author": "Adrie AO",
+  "license": "ISC"
+}
