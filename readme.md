@@ -1,6 +1,6 @@
 # Node - conectar con MySQL
 
-## En primper lugar
+## En primer lugar
 
 creamos nuestra configuramos nuestro entorno de trabajo
 
