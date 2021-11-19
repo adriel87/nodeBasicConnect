@@ -5,8 +5,11 @@
   "main": "app.js",
   "scripts": {
     "test": "test",
-    "dev":"cls & node app.js"
+    "dev": "cls & node app.js"
   },
   "author": "Adrie AO",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
 }
